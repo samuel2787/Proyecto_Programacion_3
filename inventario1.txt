@@ -1,0 +1,6 @@
+Nombre: Pan	Cantidad: 2	Precio: 0.10	Precio total: 0.20
+Nombre: Doritos	Cantidad: 4	Precio: 0.50	Precio total: 2.00
+Nombre: Yogurt	Cantidad: 3	Precio: 2.50	Precio total: 7.50
+Nombre: Cheetos	Cantidad: 10	Precio: 0.35	Precio total: 3.50
+Nombre: Cocacola	Cantidad: 5	Precio: 1.10	Precio total: 5.50
+Nombre: Queso	Cantidad: 2	Precio: 3.05	Precio total: 6.10
