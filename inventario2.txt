@@ -1,0 +1,4 @@
+Nombre: Shampoo	Cantidad: 5	Precio: 2.75	Precio total: 13.75
+Nombre: Jabon	Cantidad: 7	Precio: 1.00	Precio total: 7.00
+Nombre: Cepillo	Cantidad: 4	Precio: 2.50	Precio total: 10.00
+Nombre: Papel	Cantidad: 8	Precio: 5.35	Precio total: 42.80
